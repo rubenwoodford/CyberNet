@@ -1,2 +1,0 @@
-# CyberNet
-CyberNet Whitepaper
